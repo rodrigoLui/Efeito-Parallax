@@ -1,0 +1,17 @@
+@media screen and (max-width: 375px){
+   .cont{
+       width: 355px;
+       margin: 0;
+   }
+   .conteudo{
+       max-width: 425px;
+       padding: 30px 10px;
+   }
+
+   .conteudo-titulo span.titulo {
+    font-size: 15px;
+}
+p{
+    margin: 0 0 15px 0;
+}
+}
