@@ -7,11 +7,10 @@
        max-width: 425px;
        padding: 30px 10px;
    }
-
    .conteudo-titulo span.titulo {
     font-size: 15px;
-}
-p{
-    margin: 0 0 15px 0;
-}
+    }
+    p{
+        margin: 0 0 15px 0;
+    }
 }
